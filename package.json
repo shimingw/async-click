@@ -1,0 +1,15 @@
+{
+  "name": "async-click",
+  "version": "1.0.0",
+  "description": "Resolve event repeat clicks",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue"],
+  "author": "",
+  "license": "ISC"
+}
