@@ -9,5 +9,8 @@
 
 ## Usage
 ```
+import asyncClick from 'async-click'
+Vue.use(asyncClick)
+
 <el-button type="primary" v-asyncClick="{ event: confirm, params:[rows,id,...] }">保存</el-button>
 ```
